@@ -1,0 +1,17 @@
+frequenz: 100hz 	1,5V	6 ms		Spitze:  14,71 mV
+frequenz: 200hz 	1,5V	1,96 ms		Spitze:  20 mV
+frequenz: 300hz		1,5V	1 ms		Spitze:  22,49 mV
+frequenz: 400hz		1,5V 	570 micro	Spitze:  36,77 mV
+frequenz: 500hz		1,5V	91 micro	Spitze:  64,89 mV
+frequenz: 700hz		1,5V	1,16 ms		Spitze:  32,01 mV
+frequenz: 850hz		1,5V 	945 micro	Spitze:  27,69 mV
+frequenz: 1 khz		1,5V  	791 micro	Spitze:  22,93 mV
+frequenz: 1,2 khz	1,5V	625 micro	Spitze:  20,33 mV
+frequenz: 1,5 khz	1,5V	482 micro	Spitze:  22,93 mV
+frequenz: 1,7 khz	1,5V	404 micro	Spitze:  22,06 mV
+frequenz: 2 khz		1,5V	329 micro	Spitze:  23,36 mV
+frequenz: 3 khz		1,5V	171 micro	Spitze:  23,36 mV
+frequenz: 4 khz		1,5V	103 micro	Spitze:  17,73 mV
+frequenz: 5 khz		1,5V	35 micro	Spitze:  28,55 mV
+frequenz: 6 khz		1,5V	173 micro	Spitze:  13,84 mV
+frequenz: 10 khz	1,5V	43 micro	Spitze:  18,17 mV
